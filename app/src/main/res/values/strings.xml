@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnimeApp</string>
+    <string name="anime_list_title">Top Anime</string>
+    <string name="episodes_format">Episodes: %1$d</string>
+    <string name="rating_format">Score: %1$s</string>
+    <string name="synopsis_label">Synopsis</string>
+    <string name="cast_label">Main Cast</string>
+    <string name="genre_label">Genres</string>
+    <string name="trailer_label">Trailer</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="error_loading">Error loading data</string>
+</resources>

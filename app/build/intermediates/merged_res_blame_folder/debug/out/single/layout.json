@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.animeapp-mergeDebugResources-55:/layout/item_cast.xml",
+        "source": "com.example.animeapp-main-58:/layout/item_cast.xml"
+    },
+    {
+        "merged": "com.example.animeapp-mergeDebugResources-55:/layout/item_anime.xml",
+        "source": "com.example.animeapp-main-58:/layout/item_anime.xml"
+    },
+    {
+        "merged": "com.example.animeapp-mergeDebugResources-55:/layout/shimmer_anime_detail.xml",
+        "source": "com.example.animeapp-main-58:/layout/shimmer_anime_detail.xml"
+    },
+    {
+        "merged": "com.example.animeapp-mergeDebugResources-55:/layout/shimmer_anime_list.xml",
+        "source": "com.example.animeapp-main-58:/layout/shimmer_anime_list.xml"
+    },
+    {
+        "merged": "com.example.animeapp-mergeDebugResources-55:/layout/fragment_anime_list.xml",
+        "source": "com.example.animeapp-main-58:/layout/fragment_anime_list.xml"
+    },
+    {
+        "merged": "com.example.animeapp-mergeDebugResources-55:/layout/fragment_anime_detail.xml",
+        "source": "com.example.animeapp-main-58:/layout/fragment_anime_detail.xml"
+    },
+    {
+        "merged": "com.example.animeapp-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.example.animeapp-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.animeapp-mergeDebugResources-55:/layout/item_anime_placeholder.xml",
+        "source": "com.example.animeapp-main-58:/layout/item_anime_placeholder.xml"
+    }
+]

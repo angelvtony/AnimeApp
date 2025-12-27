@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\layout_fragment_anime_detail.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\layout\\fragment_anime_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\drawable_ic_play_arrow.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\drawable\\ic_play_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\layout_item_cast.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\layout\\item_cast.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\layout_item_anime_placeholder.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\layout\\item_anime_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\layout_shimmer_anime_list.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\layout\\shimmer_anime_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\drawable_gradient_overlay.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\drawable\\gradient_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\layout_shimmer_anime_detail.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\layout\\shimmer_anime_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\layout_item_anime.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\layout\\item_anime.xml"
+    },
+    {
+        "merged": "com.example.animeapp-merged_res-56:/drawable_anime.xml.flat",
+        "source": "com.example.animeapp-main-58:/drawable/anime.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\drawable_rating_bg.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\drawable\\rating_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-merged_res-56:\\layout_fragment_anime_list.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.example.animeapp-main-58:\\layout\\fragment_anime_list.xml"
+    }
+]

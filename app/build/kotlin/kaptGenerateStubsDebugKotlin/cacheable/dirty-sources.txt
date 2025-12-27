@@ -1,0 +1,14 @@
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\data\api\JikanApiService.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\ui\AnimeListFragment.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\ui\viewmodel\AnimeViewModel.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\AnimeApplication.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\ui\AnimeDetailFragment.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\ui\MainActivity.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\build\generated\source\navigation-args\debug\com\example\animeapp\ui\AnimeDetailFragmentArgs.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\data\repository\AnimeRepository.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\ui\adapter\AnimeAdapter.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\build\generated\source\navigation-args\debug\com\example\animeapp\ui\AnimeListFragmentDirections.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\data\model\AnimeModels.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\di\AppModule.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\data\db\AnimeDb.kt
+C:\Users\USER\.gemini\antigravity\scratch\AnimeApp\app\src\main\java\com\example\animeapp\ui\adapter\CastAdapter.kt

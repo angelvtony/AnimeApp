@@ -95,6 +95,10 @@ User-friendly messages are shown instead of crashes.
 
 🧱 Architecture & Design Patterns
 
+https://github.com/user-attachments/assets/52b277f8-0fb3-4a10-836e-c8fc80b66096
+
+
+
 MVVM (Model–View–ViewModel)
 
 Clean separation of concerns
